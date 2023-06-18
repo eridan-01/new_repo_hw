@@ -9,7 +9,7 @@ def foo(word: str) -> str:
 
 def foo_2(word: str) ->str:
     """
-    Возвращает все слова с заглавной буквы
+
     :param word:
     :return:
     """
